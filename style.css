@@ -1,0 +1,40 @@
+a {
+    text-decoration: none;
+}
+
+p {
+    color: white;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+}
+
+a:hover {
+    color: grey;
+    background-color: transparent;
+}
+
+a:active {
+    color: grey;
+    background-color: transparent;
+}
+
+body {
+    background-color: black;
+}
+
+.center {
+    color: green;
+    text-align: center;
+    margin: 5% auto auto auto;
+    width: 40%;
+    border: 1px solid green;
+    padding: 5px;
+}
